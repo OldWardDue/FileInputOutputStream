@@ -1,7 +1,3 @@
-//Все необходимые данные запрашиваются;
-//
-
-
 import java.io.*;
 import java.nio.file.Files;
 import java.util.Scanner;
